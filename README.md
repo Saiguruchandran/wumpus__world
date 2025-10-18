@@ -149,5 +149,5 @@ while(player):
 
 ## RESULT
 
-Therefore, Wumpus World Problem using Python demonstrating Inferences from Propositional Logic solved successfully.
+thus the implementation of  Wumpus World Problem using Python demonstrating Inferences from Propositional Logic was executed successfully.
 
